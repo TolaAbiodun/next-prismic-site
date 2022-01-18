@@ -1,9 +1,3 @@
-# Prismic Slice Machine & Next.js Boilerplate
-> [Next.js](https://nextjs.org/) & Slice Machine boilerplate project with content managed in [Prismic](https://prismic.io) and components built with Slice Machine
-
-## Check out the dedicated article to get this project up and running
-> [Learn how to use this boilerplate to build a project from scratch](https://prismic.io/docs/technologies/tutorial-series-introduction-nextjs)
-
 ### Learn more about using Prismic with Next.js
 
 [Prismic + Next.js documentation](https://prismic.io/docs/technologies/home-prismic-and-nextjs).
