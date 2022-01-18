@@ -19,6 +19,10 @@ a {
   margin: auto;
   margin-bottom: 3.75rem;
 }
+
+.text-center {
+  text-align: center;
+}
 .homepage-banner {
   font-family: 'Lato', sans-serif;
   margin: 0 0 80px 0;
@@ -50,15 +54,18 @@ a {
   margin-right: auto;
 }
 a {
-  background: #ffffff;
+  background: skyblue;
   border-radius: 7px;
-  color: #484d52;
+  color: #333;
   font-size: 14px;
   font-weight: 700;
-  padding: 15px 40px;
+  padding: 15px 35px;
 }
 a:hover {
   background: #c8c9cb;
+}
+p {
+  text-align: justify;
 }
 @media (max-width: 767px) {
   .homepage-banner {
@@ -127,10 +134,7 @@ margin-bottom: 1rem;
     .highlight {
       grid-template-columns: 1fr;
     }
-    .featured-image {
-      width: 100vw;
-      height: auto;
-    }
+    
   }
 
 .default-slice {
@@ -183,5 +187,20 @@ margin-bottom: 1rem;
   .quote {
     font-size: 20px;
   }
+}
+
+.full-img {
+  width: 980px;
+  height: 500px;
+}
+
+.featured-image {
+      width: 500px;
+      height: 300px;
+    }
+
+.img-gallery {
+  width: 350px;
+  height: 300px;
 }
 

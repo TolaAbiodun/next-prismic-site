@@ -1,18 +1,8 @@
 {
-  "slices": {
-    "TextSlice": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "QuoteSlice": {
-      "default-slice": {
-        "primary": {}
-      }
-    }
-  },
+  "slices": {},
   "_cts": {
     "page": {},
-    "home-page": {}
+    "home-page": {},
+    "about-page": {}
   }
 }

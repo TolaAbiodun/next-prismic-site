@@ -48,8 +48,8 @@
           "config": {
             "label": "featuredImage",
             "constraint": {
-              "width": 727,
-              "height": 402
+              "width": null,
+              "height": null
             },
             "thumbnails": []
           },

@@ -4,16 +4,15 @@ import { useGetStaticProps } from "next-slicezone/hooks";
 
 import resolver from "../sm-resolver.js";
 
-const Page = (props) => <SliceZone {...props} resolver={resolver} />;
+const Home = (props) => <SliceZone {...props} resolver={resolver} />;
 
 // Fetch content from prismic
 export const getStaticProps = useGetStaticProps({
   client: Client(),
-  type: 'page',
-  queryType: 'repeat',
   apiParams: {
-    uid: 'home'
+    uid: 'homepage'
   }
+
 });
 
-export default Page;
+export default Home;

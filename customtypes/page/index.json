@@ -17,13 +17,22 @@
         "fieldset": "Slice Zone",
         "config": {
           "choices": {
-            "hero_slice": {
-              "type": "SharedSlice"
-            },
             "full_width_img_slice": {
               "type": "SharedSlice"
             },
             "img_gallery_slice": {
+              "type": "SharedSlice"
+            },
+            "featured_image": {
+              "type": "SharedSlice"
+            },
+            "hero_slice": {
+              "type": "SharedSlice"
+            },
+            "quote_slice": {
+              "type": "SharedSlice"
+            },
+            "text_slice": {
               "type": "SharedSlice"
             }
           }
