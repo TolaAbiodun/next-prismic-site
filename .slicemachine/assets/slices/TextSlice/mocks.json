@@ -1,0 +1,32 @@
+[
+  {
+    "variation": "default-slice",
+    "name": "Default slice",
+    "slice_type": "text_slice",
+    "items": [],
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Do nulla velit ex officia incididunt ut et aliquip.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  {
+    "variation": "twoColumn",
+    "name": "TwoColumn",
+    "slice_type": "text_slice",
+    "items": [],
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Ad pariatur adipisicing ipsum nisi aliqua minim ea aute incididunt. Irure voluptate minim nisi.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
