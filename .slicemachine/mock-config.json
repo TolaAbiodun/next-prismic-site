@@ -1,17 +1,5 @@
 {
   "slices": {
-    "FeaturedImage": {
-      "default-slice": {
-        "primary": {
-          "headline": {
-            "config": {
-              "patternType": "HEADING",
-              "blocks": 1
-            }
-          }
-        }
-      }
-    },
     "TextSlice": {
       "default-slice": {
         "primary": {}
@@ -24,6 +12,7 @@
     }
   },
   "_cts": {
-    "page": {}
+    "page": {},
+    "home-page": {}
   }
 }
